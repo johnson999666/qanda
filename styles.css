@@ -9,7 +9,7 @@ body {
 }
 
 .flex-box {
-  width: 75%;
+  width: 100%;
   flex-basis: 30%;
   height: 150px;
   background-color: #ccc;
